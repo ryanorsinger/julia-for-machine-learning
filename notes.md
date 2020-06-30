@@ -55,3 +55,46 @@
 - From `]`, the `backspace` key goes back into the REPL
 
 
+## Two Main Data Analytics Paradigms
+- Data analytics is the super-set of data-science and the precursor to data-mining
+- Paradigm #1 - Conventional statistical models make use of models related to distributions to understand the data and make predictions. This is called the "model-driven" approach. 
+- Paradigm #2 - Non-parametric Statistics, which means to analyze the data without using distribution based models. This relies on the data itself rather than assumptions of distributions. This is called the "data-driven" approach
+- This isn't quite the same distinction that Geron makes in http://homl.info/ as the difference between model-based learning and instance-based learning.. But it may be valuable to compare these two paradigms with Geron's instance/model distinction.
+- Hybrid approaches exist that use both paradigms. One such hybrid approach is Bayesian Statistics.
+- Pursuing one paradigm while neglecting the other is sophomoric folly.
+- ML makes less assumptions about the data
+
+
+## Terms
+- Predictive analytics is data analytics focused on predictions. This is called inferencial modeling.
+- AI != ML != Data Analytics != Data Science
+- AI is usually the whole system while an ML model is a specific component
+
+
+## Types of Learning
+- Supervised learning
+    - KNN
+    - Decision trees
+    - SVMs
+    - Random Forests
+    - Boosted Forests
+    - Artificial Neural Networks and multilevel perceptrons
+- Unsupervised learning
+    - dimensionality reduction
+    - clustering
+    - distinct and independent but can be used together since clustering works better w/ fewer variables involved
+- Reinforcement learning
+- Semi-supervised learning
+- Self-supervised learning (ideal w/ limited labeled data)
+- Recommendation systems
+
+## ML for Business
+- ML is a means to an end or a business resource
+- Stakeholders care about:
+    - The effect on the bottom line
+    - Return on investment
+    - How likely ML is to be an asset
+    - The resources required to make this happen
+    - The risk of this whole process. How likely is this to become a liability?
+
+
