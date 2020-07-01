@@ -98,3 +98,16 @@
     - The risk of this whole process. How likely is this to become a liability?
 
 
+## Updating All Packages at once
+- `julia` to enter the Julia repl
+- `]` to enter the package management system
+- then type `update` to update all packages in Pkg.
+
+
+## Chapter 5
+- Deprecation errors with nearly every method call... 
+- Literally a deprecation error on the very first line of Julia folks are supposed to run here...
+- 0 to 60 in 1 code sample.
+
+## Now we know
+- When normalization makes use of Z scores, it is called standardization. This is the most common kind of normalization.
