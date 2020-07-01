@@ -104,7 +104,7 @@
 - then type `update` to update all packages in Pkg.
 
 
-## Chapter 5
+## Chapter 5 and Concerns for the Julia environment for new learners
 - Deprecation errors with nearly every method call... 
 - Literally a deprecation error on the very first line of Julia folks are supposed to run here...
 - 0 to 60 in 1 code sample.
